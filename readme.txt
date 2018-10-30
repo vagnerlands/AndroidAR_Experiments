@@ -1,0 +1,1 @@
+you may need to set NDK location in menu File - Project Structure - SDK Location
